@@ -1,7 +1,7 @@
 # Hello there! I'm Guilherme Batista 👋
 
-> Backend Engineer, passionate about computers since I was born ☺️
-> 
+> Computer Engineer, working as a **Backend Developer** since 2018, passionate about computers since I was born ☺️
+
 ## Contact:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermetbatista/)
 
