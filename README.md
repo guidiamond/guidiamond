@@ -1,6 +1,6 @@
 # Hello there 👋
 
-> I'm a Computer Engineer, working as a **Backend Developer** since 2018, passionate about computers since I was born ☺️
+> I'm a Software Engineer with over 6 years of experience that likes to build products that people use and love. ☺️
 
 ## Contact:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermetbatista/)
